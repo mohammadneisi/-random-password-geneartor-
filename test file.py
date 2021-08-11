@@ -1,3 +1,0 @@
-
-print("mohammad")
-print('neisi')
